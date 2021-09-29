@@ -1,4 +1,4 @@
-<h1>Simple PHP Coupon Code Generator</h1>
+<h1>Coupon Code Generator</h1>
 <p>
 Coupon code generator this is php class, which provides the ability to generate coupon codes on various parameters. 
 Its key feature is the generation of a coupon code on a mask like this “XXXXXX” or “prefix-XXXX-XXXX-suffix” 
